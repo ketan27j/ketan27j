@@ -8,8 +8,8 @@ Latest focus is exploring emerging technologies in AI and Web3.
 
 
 ## 💼 Experience
-- [Current/Previous Role] at [BNP Paribas] (Nov 2013 - Present)
-- [Previous Role] at [Capgemini consulting] (Oct 2006 - Nov 2013)
+- AVP at BNP Paribas (Nov 2013 - Present)
+- SSE at Capgemini consulting (Oct 2006 - Nov 2013)
 
 
 <!-- The tech stats section below will be automatically updated by GitHub Actions -->
